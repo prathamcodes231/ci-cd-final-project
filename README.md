@@ -1,4 +1,4 @@
-# CI/CD Final Project
+# ci-cd-final-project
 
 ## Project Name
 Continuous Integration and Continuous Delivery (CI/CD) Final Project
